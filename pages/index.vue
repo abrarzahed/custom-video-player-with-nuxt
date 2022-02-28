@@ -124,7 +124,7 @@ h1 {
   cursor: pointer;
   width: min(900px, 100%);
   min-width: 900px;
-  background: #000 !important ;
+  background: #000 !important;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   max-height: 600px;
